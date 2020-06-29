@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey PopAcademy, I'm up and running!
+title: You're popped up and running!
 ---
 
 Welcome to championsworld, where many kind of makers are picked from 8 pilot cities and collected in front of a digital blackboard, for an academy about practicing, learning and generating collaboartive makers' space for the circular economy in real.  
