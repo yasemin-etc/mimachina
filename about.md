@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: Mi! 
 permalink: /about/
 ---
 
-Some information about you!
+i have been in different communities and countries, through working in different participatory \ hands-on \ make-it-work events. i am through the continuous development and change from what i'm learning: if you make something yourself; simple or complex, you can understand and approve that things can be distorted in custom and common manners. Sharing, caring about environment, believing that interconnectedness and diversity are inherently good- and this is ironically very difficult to counter; unless you are making/hacking. Because making/hacking comes before the context and turns into an act of inquiry and curiosity, at once analytical and exploratory.  
 
-### More Information
+To facilitate a new (old) narrative structures of social inter-action, i’m in practice in self sufficient + circular dynamics through biology, arts and technology.Hardly defining a profession to myself after my experiences, i might say i'm a costant amateur, learner, mediater, a social designer (or a social activist?) 
 
-A place to include any other types of information that you'd like to include about yourself.
+[some things i've been in making](https://issuu.com/badedin/docs/0000)
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Mi! in PopMachina
+
+i’m passionate on focusing on nature, people and the stories they carry, food and food culture, biotechnology and art+science within an interdisciplinary collaborations.
+
+Through the Pop Academy experience i am seeing myself learning many random skills and specifically focus on art and biology department by collaborating with each other (global) and our closer environment (local).
+
+i am calling my documentation site as Mi Machina, **Mi** in here is in latin means _My beloved!_ or _My dear!_  
+
+i've found myself in this setting so sudden however, i can't wait turning on that machine and seeing it cycles, mutates and serves.  
+
+
+### .
+
+[say what](mailto:mydearmachina@gmail.com)
