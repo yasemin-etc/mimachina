@@ -24,7 +24,7 @@ Meanwhile, PopAcademy is a time limited issue so to be quick (which is already w
   
 # right to FORK  
 Right to fork refers to have the right to modify your own copy of a software project and maintaining it seperately from the original.
-![righttofork]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/forkL.jpg)  This is usually a prefered form for modification, that you set it on top your own desire, and even help the main source to thrive. 
+![righttofork]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/forkL.jpg)  This is usually a prefered form for modification, that you set it on top your own desire, and even help the main source to thrive with implementations. 
   
 # markdown  
 *...*  
@@ -36,7 +36,7 @@ there have been several issues that i have been changing and i will be changing 
 * [Adding an image to post headline in the front matter](https://github.com/barryclark/jekyll-now/issues/755)
 * [How do you change font size / font family?](https://github.com/barryclark/jekyll-now/issues/1101)
 * [Adding new page](https://github.com/barryclark/jekyll-now/issues/679)  
-  
+* [Tags and categories](https://github.com/barryclark/jekyll-now/issues/516)
 
 [session-01-The Academy Kick OFF - 04/06/2020](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-01---The-Academy-Kick-OFF---04062020)
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Building-a-Personal-Website)  
