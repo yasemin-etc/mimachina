@@ -14,8 +14,9 @@ Well as a first [assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assig
 
 i will be going through this, i finished only 26% of the lectures in CodeAcademy.Meanwhile, PopAcademy is a time limited issue so to be quick (which is already week 4), i decided to set up my site by forking [Jekyll Now repository](https://github.com/barryclark/jekyll-now) (as 28.4k people in the world.)  
 
-
-#right to FORK  
+  
+  
+# right to FORK  
 
 ![righttofork]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/forkL.jpg)  
 ..
