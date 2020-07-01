@@ -3,7 +3,6 @@ layout: post
 title: Human Wheel
 ---
 
-[session-02](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-02---Building-a-Circular-Maker-Space---11062020)
 
 
 Weekly Assignment - Design a logo for your Circular Maker Space
@@ -32,3 +31,4 @@ Note: consider the circular maker space in a broader approach, therefore do not 
 and other organisations that are part of your network. Remember the municipalities’ representatives might provide good food for thought 
 regarding the each Pilot City profile and aims! Shared valeu and collective impact is about also about setting up common vision. 
 Your brand can inspire and facilitate that!
+[session-02](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-02---Building-a-Circular-Maker-Space---11062020)
