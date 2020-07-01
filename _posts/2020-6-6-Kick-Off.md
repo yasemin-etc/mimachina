@@ -9,7 +9,7 @@ There in the academy, they provoke our imagination and what we can do for the sa
 
 Well as a first [assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Building-a-Personal-Website), we are asked to build our site in Github, in order to document our experience in the academy. i have met Github years ago and i would say coincidentally i built a site then, but did leave it there in the cloud with no stable knowledge. Now again, i have been through the basics and tried several ways with loads of failures but i have a much clear idea on using/manipulating codes.[CodeAcademy](https://www.codecademy.com) is my favorite till now. in free version, it is simply giving a practice board to learn HTML, and step by step you find your self building an information site about Brown Bears. :)   
 
-![brownbear]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/forkL.jpg)  
+![brownbear]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/brownbear.mov)  
 
 
 i will be going through this, i finished only 26% of the lectures in CodeAcademy.Meanwhile, PopAcademy is a time limited issue so to be quick (which is already week 4), i decided to set up my site by forking [Jekyll Now repository](https://github.com/barryclark/jekyll-now) (as 28.4k people in the world.)  
@@ -17,7 +17,7 @@ i will be going through this, i finished only 26% of the lectures in CodeAcademy
 
 #right to FORK  
 
-![righttofork]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/brownbear.mov)  
+![righttofork]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/forkL.jpg)  
 ..
 
 #issues
