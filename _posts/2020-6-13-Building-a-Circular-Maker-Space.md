@@ -5,7 +5,7 @@ title: Human Wheel
 
 
 
-Weekly Assignment - Design a logo for your Circular Maker Space
+[Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Design-a-logo-for-your-Circular-Maker-Space)
  Comment
 
 Estimated dedication time: 2h
