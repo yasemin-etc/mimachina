@@ -15,8 +15,7 @@ Now again, i have been through the basics and tried from starting from the very 
 ![brownbear]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/brownbear.mov)  
 
 
-i will be going through this, i finished only 26% of the lectures in CodeAcademy. And by the end of the Academy, i wish to built my own way from scratch.  
-![blogtemplate]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/blogtemplate.jpg) 
+i will be going through this, i finished only 26% of the lectures in CodeAcademy. And by the end of the Academy, i wish to built my own way from scratch.  __.__ 
 
 Meanwhile, PopAcademy is a time limited issue so to be quick (which is already week 4), i decided to set up my site by forking [Jekyll Now repository](https://github.com/barryclark/jekyll-now) (as 28.4k people in the world.)  
 
@@ -41,6 +40,8 @@ there have been several issues that i have been changing and i will be changing 
 [session-01-The Academy Kick OFF - 04/06/2020](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-01---The-Academy-Kick-OFF---04062020)
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Building-a-Personal-Website)  
   
-  
+ 
+ __.__ ![blogtemplate]({{ site.baseurl }}/images/posts/2020-6-6-Hello-World/blogtemplate.jpg) 
+
 
 *This post is still in process*
