@@ -26,7 +26,7 @@ Meanwhile, PopAcademy is a time limited issue so to be quick (which is already w
   
 # right to FORK  
 Right to fork refers to have the right to modify your own copy of a software project and maintaining it seperately from the original.
-![righttofork]({{ site.baseurl }}/images/2020-6-6-Kick-Off/forkL.jpg)  This is usually a prefered form for modification, that you set it on top your own desire, and even help the main source to thrive with implementations. 
+![righttofork]({{ site.baseurl }}/images/2020-6-6-Kick-Off/fork.jpg)  This is usually a prefered form for modification, that you set it on top your own desire, and even help the main source to thrive with implementations. 
   
 # markdown  
 *...*  
