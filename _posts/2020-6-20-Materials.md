@@ -2,9 +2,13 @@
 layout: post
 title: BioPunk
 ---
-*Inspirational Talk by Marion Real*  
-*Coggle Map-What is a community? / group exercise*  
+*Inspirational Talk by Anastasia Pistofidoul*  
+*Molding and Casting*  
 
+![mold-r1]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/mold-r1.jpg) 
+  
+  
+![mold-molded]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/moldmolded.jpg)
 
 *This post is in process*  
 
