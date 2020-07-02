@@ -15,7 +15,7 @@ Well as a [first assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assig
 Before everything, i checked the versions of Git and Ruby through terminal. There is [here](https://medium.com/@IanRahman/how-to-upgrade-ruby-on-a-mac-a592c6085c63) a step by step instruction to upgrade your Ruby.
 Now again, i have been through the basics and tried from starting from the very beginning to picking a fancy fancy theme by ending up failures. In one moment i stopped lookiing at every instructions and decided to clear out using/manipulating codes by understanding them. For that, [CodeAcademy](https://www.codecademy.com) is my favorite till now. in free version, it is simply giving a practice board to learn HTML, and step by step you find your self in deep oceans with Brown Bears. Below you may see what i mean;   
 
-![brownbear]({{ site.baseurl }}/images/2020-6-6-Kick-Off/brownbear.mov)  
+![brownbear]({{ site.baseurl }}/images/2020-6-6-Kick-Off/brownbear.gif)  
 
 
 i will be going through this, i finished only 26% of the lectures in CodeAcademy. And by the end of the Academy, i wish to built my own way from scratch.  __.__ 
