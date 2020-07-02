@@ -38,9 +38,11 @@ there have been several issues that i have been changing and i will be changing 
 * [Adding an image to post headline in the front matter](https://github.com/barryclark/jekyll-now/issues/755)
 * [How do you change font size / font family?](https://github.com/barryclark/jekyll-now/issues/1101)
 * [Adding new page](https://github.com/barryclark/jekyll-now/issues/679)  
-* [Tags and categories](https://github.com/barryclark/jekyll-now/issues/516)
+* [Tags and categories](https://github.com/barryclark/jekyll-now/issues/516)  
 
-[session-01-The Academy Kick OFF - 04/06/2020](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-01---The-Academy-Kick-OFF---04062020)
+
+[session-01-The Academy Kick OFF - 04/06/2020](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-01---The-Academy-Kick-OFF---04062020)  
+
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Building-a-Personal-Website)  
   
  
