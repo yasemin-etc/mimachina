@@ -26,12 +26,19 @@ Typical intention to describe Makers' space is usually an image of a *hand* or c
 For the moment for this project, the city of istanbul has an option to use a part in Edirnekapı İstaç (Environmental Management Department of the city) which does not give any inspiration in graphical identity from its architecture, yet there is no name picked up for this coming makers' space. 
 
 If i want to keep the image of cycle related to istanbul, i might end up with a lot of cliché visual with many towers and domes that are used for many other reasons, which i definitely don't want.  
-Consequently i thought of how to symbolise this cycle by using another subject other than arrow, and i ended up using human image - *the makers* themselves cycling. It is acceptable that all these things we are talking is human thing but also for in istanbul before everything, there is another human you are in contact since it is very crowded. There are many times you don't see the the sky,the soil, the sea, the moon, the stars, the emptiness, but you definitely hear and toss human.  
+Consequently i thought of how to symbolise this cycle by using another subject other than arrow, and i ended up using human image - *the makers* themselves cycling. It is acceptable that all these things we are talking is human thing but also for in istanbul before everything, there is another human you are in contact since it is very crowded. There are many times you don't see the the sky,the soil, the sea, the moon, the stars, the emptiness, but you definitely hear and toss human. Here are some sketches i made in Adobe Illustrator. 
   
   
 ![humanwheel]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/humanwheel.jpg)  
   
 ![makerswheel]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/makerswheel.jpg)  
+  
+    
+The end result is desired to have 5 human in cycle, from 5 letters of STEAM. in order to realise this more clean in graphics,i decided to rig a human body in Blender (first time in my life).   
+  
+![blenderscreenvideo]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenvideo.mov)  
+  
+![blenderscreenvideo]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenvideo.mov)  
 
   
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Design-a-logo-for-your-Circular-Maker-Space)
