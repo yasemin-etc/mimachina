@@ -38,7 +38,10 @@ The end result is desired to have 5 human in cycle, from 5 letters of STEAM. in 
   
 ![blenderscreenvideo]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenvideo.mov)  
   
-![blenderscreenvideo]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenvideo.mov)  
+![blenderscreenshot]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenshot.png)  
+  
+  
+ *This post is still in process*  
 
   
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Design-a-logo-for-your-Circular-Maker-Space)
