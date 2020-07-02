@@ -9,7 +9,6 @@ i have been in different communities and countries, through working in different
 To facilitate a new (old) narrative structures of social inter-action, i’m in practice in self sufficient + circular dynamics through biology, arts and technology. Hardly defining a profession to myself after my experiences, i might say i'm a constant amateur, learner, mediater, a social designer (may be a social activist?) or little Miss Lillian Greneker .. 
 ![missgreneker]({{ site.baseurl }}/images/missgreneker.jpg)
 
-[things i've been in making](https://issuu.com/badedin/docs/0000)
 
 
 ### Mi! in PopMachina
@@ -27,5 +26,5 @@ i've found myself in this setting so sudden however, i can't wait turning on tha
 
 
 ### .
-
+things i've been [making](https://issuu.com/badedin/docs/0000)
 [say what](mailto:mydearmachina@gmail.com)
