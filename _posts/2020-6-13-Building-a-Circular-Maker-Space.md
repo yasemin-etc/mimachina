@@ -18,7 +18,7 @@ Let's first look at the features of logo.
  * should be in a color stragetically, by understanding color psychology.
     
 Typical intention to describe Makers' space is usually an image of a *hand* or characteristics of the location that is used for it, is as well used for naming the place, which i like the most. For the Circular Economy *circulating arrow* in order to describe the loop of the idea of reduce, reuse, recycle together with some icons to show up the process and mostly within the colors blue and/or green.  
-![makersincirculareconomy]({{ site.baseurl }}/images/posts/2020-6-13-Building-a-Circular-Maker-Space/makersincirculareconomy.jpg) 
+![makersincirculareconomy]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/makersincirculareconomy.jpg) 
 
   
 For the moment for this project, the city of istanbul has an option to use a part in Edirnekapı İstaç (Environmental Management Department of the city) which does not give any inspiration in graphical identity from its architecture, yet there is no name picked up for this coming makers' space. 
