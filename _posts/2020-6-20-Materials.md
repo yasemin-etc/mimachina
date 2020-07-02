@@ -2,7 +2,7 @@
 layout: post
 title: BioPunk
 ---
-*Inspirational Talk by Anastasia Pistofidoul*  
+*Inspirational Talk by Anastasia Pistofidoul* ♡  
 *Molding and Casting*  
 
 ![mold-r1]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/mold-r1.jpg) 
