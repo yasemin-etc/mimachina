@@ -2,7 +2,7 @@
 layout: post
 title: Up and Running!
 ---
-*Kick-off*
+*Kick-off*  
 *building a personal website*  
   
   
