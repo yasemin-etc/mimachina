@@ -35,18 +35,20 @@ Consequently i thought of how to symbolise this cycle by using another subject o
 It is acceptable that all these things we are talking is human thing but also for in istanbul before everything, there is another human you are in contact since it is very crowded. There are many times you don't see the the sky, the soil, the sea, the moon, the stars, the emptiness, but you definitely hear and toss many human.  
   
   
-Meanwhile thinking of how to bring more action instead of just cycling for these human in their wheel, they might better bend backwards so they are as well open to outside, and there might be more then two people. Here is the half cycle sketch i made in __Inkscape__ with the command *Draw freehand lines*.   
+Meanwhile thinking of how to bring more action instead having a withdrawn turn: they might better bend backwards so they are as well open to outside, and there might be more then two people. Here is the half cycle sketch i made in __Inkscape__.   
 
 
   
 ![makerswheel]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/makerswheel.jpg)  
   
     
-in order to realise this more clean in graphics,i decided to rig a human body in Blender which is the free and open source 3D creation suite.     
+in order to realise this more clean in graphics,i decided to rig a human body, multiply with 5 to symbolise each letter of STEAM and i made that (rigging) in __Blender__ which is the _free and open source_ 3D creation suite.     
   
 ![blenderscreenvideo]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenvideo.mov)  
   
 ![blenderscreenshot]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenshot.png)  
+  
+
   
   
  *This post is still in process*  
