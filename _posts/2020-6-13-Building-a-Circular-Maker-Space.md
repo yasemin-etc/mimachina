@@ -28,12 +28,14 @@ For the moment for this project, the city of istanbul has an option to use a par
 
 If i want to keep the image of cycle related to istanbul, i might end up with a lot of cliché visual with many towers and domes that are used for many other reasons, which i definitely don't want.  
 Consequently i thought of how to symbolise this cycle by using another subject other than arrow, and i ended up using human image - *the makers* themselves cycling, like a humanwheel.  
-![humanwheel]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/hw.gif)   
+
+![humanwheel]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/hw.gif)  
+
   
-It is acceptable that all these things we are talking is human thing but also for in istanbul before everything, there is another human you are in contact since it is very crowded. There are many times you don't see the the sky,the soil, the sea, the moon, the stars, the emptiness, but you definitely hear and toss human.  
+It is acceptable that all these things we are talking is human thing but also for in istanbul before everything, there is another human you are in contact since it is very crowded. There are many times you don't see the the sky, the soil, the sea, the moon, the stars, the emptiness, but you definitely hear and toss many human.  
   
   
-Meanwhile thinking of how to bring more action instead of just cycling for these human in their wheel, they might better bend backwards so they are as well open to outside, and there might be more then two people. Here is the half cycle sketch i made in __Inkscape__ with only *Draw freehand lines*  
+Meanwhile thinking of how to bring more action instead of just cycling for these human in their wheel, they might better bend backwards so they are as well open to outside, and there might be more then two people. Here is the half cycle sketch i made in __Inkscape__ with the command *Draw freehand lines*.   
 
 
   
