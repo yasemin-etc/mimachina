@@ -49,7 +49,7 @@ in order to realise this more clean in graphics,i decided to rig a human body, m
 ![blenderscreenshot]({{ site.baseurl }}/images/2020-6-13-Building-a-Circular-Maker-Space/blenderscreenshot.png)  
   
 
-  
+ _all the gifs are made with [ImageMagick](https://imagemagick.org/index.php)_
   
  *This post is still in process*  
 
