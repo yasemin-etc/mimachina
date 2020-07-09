@@ -46,7 +46,6 @@ there have been several issues that i have been changing and i will be changing 
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Building-a-Personal-Website)  
   
  
- __.__ ![blogtemplate]({{ site.baseurl }}/images/posts/2020-6-6-Kick-Off/blogtemplate.jpg) 
 
 
 *This post is still in process*
