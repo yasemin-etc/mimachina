@@ -26,5 +26,6 @@ i've found myself in this setting so sudden however, i can't wait turning on tha
 
 
 ### .
-things i've been [making](https://issuu.com/badedin/docs/0000)
+things i've been [making](https://issuu.com/badedin/docs/0000)  
+
 [say what](mailto:mydearmachina@gmail.com)
