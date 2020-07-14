@@ -13,7 +13,7 @@ To facilitate a new (old) narrative structures of social inter-action, i’m in 
 
 ### Mi! in PopMachina
 
-i’m passionate on focusing on nature, people and the stories they carry, food and food culture, biotechnology and art+science within an interdisciplinary collaborations.
+i’m passionate on focusing on nature, people and the stories they carry, food and food culture, biotechnology and art+science within interdisciplinary collaborations.
 
 Through the Pop Academy experience i am seeing myself learning many random skills and specifically focus on art and biology department by collaborating with each other (global) and our closer environment (local).
 
