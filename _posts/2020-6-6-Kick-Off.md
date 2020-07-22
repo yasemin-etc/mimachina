@@ -24,15 +24,21 @@ Meanwhile, PopAcademy is a time limited issue so to be quick (which is already w
 
   
   
-# right to FORK  
+## right to FORK  
 Right to fork refers to have the right to modify your own copy of a software project and maintaining it seperately from the original.
 ![righttofork]({{ site.baseurl }}/images/2020-6-6-Kick-Off/fork.jpg)  This is usually a prefered form for modification, that you set it on top your own desire, and even help the main source to thrive with implementations. 
   
-# markdown  
+__How to fork Jekyll Now__  
+- first you go to [Jekyll Now repository](https://github.com/barryclark/jekyll-now) . Click on the buton _Fork_ on the top right side of the site.  
+![righttofork]({{ site.baseurl }}/images/2020-6-6-Kick-Off/fork.gif)  
+the repository is ready to work on in a very short time.  
+- once you have the repository, you go to _Settings_ . In the first line you see the current repository name in a box, which is jekyll-now. Change that name as you wish. 
+  
+## markdown  
 *...*  
 [mastering markdowns](https://guides.github.com/features/mastering-markdown/)  
 
-# issues
+## issues
 there have been several issues that i have been changing and i will be changing such as:  
 
 * [Adding an image to post headline in the front matter](https://github.com/barryclark/jekyll-now/issues/755)
