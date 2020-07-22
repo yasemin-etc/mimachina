@@ -40,7 +40,7 @@ the repository is ready to work on in a very short time.
 - Just after, scroll down to the bottom of the page and stop at the title __Github Pages__. Under __Source__, select the _master branch_ from the scroll down menu. At the end, you will see your repo's address there. Copy/Save that address.   
 ![pageadd]({{ site.baseurl }}/images/2020-6-6-Kick-Off/pageadd.png)  
   
-- If you visit your site, you will see a little destroyed theme. To fix that back, the last step you need to do is going back to __Code__, click on __ config.yml __ and pasting your site address at baseurl. I suggest you to check the whole configuration and fill your personal information as you wish them to be published.   
+- If you visit your site, you will see a little destroyed theme. To fix that back, the last step you need to do is going back to __Code__, click on __config.yml__ and pasting your site address at baseurl. I suggest you to check the whole configuration and fill your personal information as you wish them to be published.   
 ![baseurl]({{ site.baseurl }}/images/2020-6-6-Kick-Off/baseurl.gif)
 
 
