@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is a community?
+title: Precious Plastic Party
 ---
 *Inspirational Talk by Katharina Elleke*  
  
