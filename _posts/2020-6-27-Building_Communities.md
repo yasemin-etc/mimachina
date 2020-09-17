@@ -10,4 +10,4 @@ title: What is a community?
 
 [Weekly Assignment](https://hackmd.io/@fablabbcn/SyLUuOS38#Weekly-Assignment---Communities)
 
-[session-04](https://https://hackmd.io/@fablabbcn/SyLUuOS38#Session-04---Building-Communities-_-Remix-El-Barrio---25062020)
+[session-04](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-04---Building-Communities-_-Remix-El-Barrio---25062020)
