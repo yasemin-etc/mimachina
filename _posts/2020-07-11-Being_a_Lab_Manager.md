@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to manage space
+title: Manage MakerSpace
 ---  
 
 *Inspirational Talk by Mikel Llobera and Josep Martí*  
