@@ -10,4 +10,4 @@ title: Precious Plastic Party
 
 Weekly Assignment - DOCUMENT!
 
-[session-04](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-05---Precious-Plastic-Party--_-02072020)
+[session-05](https://hackmd.io/@fablabbcn/SyLUuOS38#Session-05---Precious-Plastic-Party--_-02072020)
