@@ -3,7 +3,7 @@ layout: post
 title: What is a community?
 ---
 *Inspirational Talk by Marion Real*  
-*Coggle Map-What is a community? / group exercise*  
+*What is a community? / Coggle Map - group exercise*  
 
 
 *This post is in process*  
