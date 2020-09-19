@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dig into 3D Printing
+title: Design with [Additive] Manufacturing
 ---
 *Inspirational Talk by Eduardo Chamorro*  
 *Community Engagement in Covid-19 times / group discussion* 
