@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from E-waste to New Life
+title: From E-waste to New Life
 ---
 *Recycling electronics and making circuits / HandsON Activity*  
 
