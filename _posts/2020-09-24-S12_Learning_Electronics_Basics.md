@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make some Noise
+title: from E-waste to New Life
 ---
 *Recycling electronics and making circuits / HandsON Activity*  
 
