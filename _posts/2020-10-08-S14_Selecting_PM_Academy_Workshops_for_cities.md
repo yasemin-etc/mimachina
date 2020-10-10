@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linking city prorities to workshops
+title: Linking City Prorities to Workshops
 ---
  
 *HandsON mentored by Yekta Bakıroğlu* 
