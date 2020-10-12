@@ -3,7 +3,7 @@ layout: post
 title: Linking City Prorities to Workshops
 ---
  
-*HandsON mentored by Yekta Bakıroğlu* 
+*HandsON mentored by Yekta Bakıroğlu*  
 *how can i involve in PopMachina*  
   
   
