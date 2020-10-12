@@ -7,7 +7,7 @@ title: Linking City Prorities to Workshops
 *how can i involve in PopMachina*  
   
   
-![NULL]({{ site.baseurl }}/images/22020-10-08-S14_Selecting_PM_Academy_Workshops_for_cities/NULL.jpg)
+![NULL]({{ site.baseurl }}/images/2020-10-08-S14_Selecting_PM_Academy_Workshops_for_cities/NULL.jpg)
 
 *This post is in process*  
 
