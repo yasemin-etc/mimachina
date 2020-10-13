@@ -21,6 +21,16 @@ While thinking of clarifying my self project on PopMachina, there was a CallforP
   
 I am selected to share this idea more in detail in coming week to some expertises on feasibility, creative elements and possible problem & solving.  
   
+The Kitchen is a social and pleasent space where the social differences and circulation of ideas, and hospitality is embraced. We as human are consuming for food for sure, and we produce a weighty waste in many ways from the production till the consumption. Kitchen itself is a perfect space to gather the variety and share the spirit of reflecting the specific ecological, economical and geopolitical contexts of today and in years to come.   
+
+Therefore in this Kitchen mise an scene, calling Null, is used not only to produce and consume but also to deal with how to manage the food-product waste and turn it useful for kitchen production for the sake of circularity. It has a mobius strip to produce its own edibles and appliances from its own waste.  
+  
+Two types of grow & make, and compost;  
+ * food, and compost the waste of it.
+ * grow appliances and  compost the waste of it.   
+   
+   
+  
 
 
 
