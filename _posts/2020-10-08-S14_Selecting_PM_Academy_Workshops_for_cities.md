@@ -6,7 +6,8 @@ title: Linking City Prorities to Workshops
 
 *HandsON mentored by Yekta Bakıroğlu*  
 *how can i involve in PopMachina*
-
+  
+  
 
 # About Linking City Priorities  
  
