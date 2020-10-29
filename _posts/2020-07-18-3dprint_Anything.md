@@ -4,7 +4,9 @@ title: Design with [Additive] Manufacturing
 ---
 *Inspirational Talk by Eduardo Chamorro*  
 *Community Engagement in Covid-19 times / group discussion* 
-
+  
+# About Design with Additive Manufacturing  
+Eduardo Chamorro, is one of the eye-opener of IAAC's FabLab, 
 
 *This post is in process*  
 
