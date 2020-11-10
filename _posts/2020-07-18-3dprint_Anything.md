@@ -6,14 +6,7 @@ title: Design with [Additive] Manufacturing
 *Community Engagement in Covid-19 times / group discussion*
 
 # About About Design with Additive Manufacturing
-Anastasia Pistofidoul is cofounder of Fablab Barcelona, where they work about textile and material in FabTextiles Lab, and they work in implications and applications of digital fabrication applied in the fashion industry, biology. In the Lab, they make research Digital fabrication, wearable technologies, biomaterials and parametric design. 
-
-What is so impressive and attractive is the way she appreciates the reality, as she mentions that _it's all about the matter of choices._ Instead of making propaganda of her own choices and worsening the rechargeable part, she applies a tossing practice, revealing a strong statement.
-
-...
-
-# About Molding and Casting  
-
+  
 Eduardo Chamorro, is one of the inspirer of IAAC's FabLab, he knows many things about different techniques of fabrication. He studied architecture, grad and master in Madrid. Later on he was giving some design courses and introduction of machines in the universitiy's fablab. Randomly got an offer from a fablan in South Korea, there he had a good access to new technologies in fabrication. 
 
 He is enthousiastic of opening one's eye for 3d printing.  
