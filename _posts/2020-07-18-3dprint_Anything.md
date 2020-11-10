@@ -10,9 +10,17 @@ title: Design with [Additive] Manufacturing
 Eduardo Chamorro, is one of the inspirer of IAAC's FabLab, he knows many things about different techniques of fabrication. He studied architecture, grad and master in Madrid. Later on he was giving some design courses and introduction of machines in the universitiy's fablab. Randomly got an offer from a fablan in South Korea, there he had a good access to new technologies in fabrication. 
 
 He is enthousiastic of opening one's eye for 3d printing.  
+
   
-Eventually in 3d printing there are two types inputs that i am interested in, one is filaments from recycling plastic  and the other is biomaterials, which is either coming from food loss/waste and/or paste from biodegradeble ingredients. (I should add here none of those should support creating a larger waste)   
-Here i would like to give one example from a Rotterdam based architect's, Panos Sakkas and Foteini Setaki work, [The New Raw](https://thenewraw.org) (such a beautiful name by the way). They are using robotic 3d printing with recycled plastic to develop circular design concepts to stimulate awareness and local production.
+Solid waste management affects everyone, and it seems that is important to focus on 3D Printing and the additive manufacturing industry as a whole. This is the future of manufacturing in a sense. Companies can carefully consider material choice in the design stage; choosing the plastic with the lowest impact that still offers the needed performance, and have a plan for its end of life.   
+  
+Eventually in 3d printing there are two types inputs that i am interested in, one is filaments from recycling plastic  and the other is biomaterials, which is either coming from food loss/waste and/or paste from biodegradeble ingredients. (I should add here none of those should still trigger creating a larger waste)   
+
+Filaments from recycling plastic:  
+Here i would like to give one example from a Rotterdam based architect's, Panos Sakkas and Foteini Setaki work, [The New Raw](https://thenewraw.org) (such a beautiful name by the way). They are using robotic 3d printing with recycled plastic to develop circular design concepts to stimulate awareness and local production.  
+  
+Bioprinting:  
+Before the oil based plastics, there was the bioplastic. So this is not an invention. 
 
 
 
