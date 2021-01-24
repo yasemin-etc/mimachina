@@ -2,9 +2,9 @@
 layout: post
 title: Design Together- Workshops has begun in Istanbul
 ---
-*tata*  
-*tata* 
-*tata* 
+*New Material Resources 2020-12-04*  
+*Bio-Circularity + Energetic Transformation 2020-12-17*  
+*Urban Scale 2021-01-21* 
 
 
 *This post is in process*  
