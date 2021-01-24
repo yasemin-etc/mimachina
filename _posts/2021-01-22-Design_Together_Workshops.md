@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Design Together in/for Istanbul - Workshops are ON THE GO 
+title: Design Together in/for Istanbul
 ---
-*New Material Resources 2020-12-04*  
-*Bio-Circularity + Energetic Transformation 2020-12-17*  
-*Urban Scale 2021-01-21* 
+*Workshops are ON THE GO*  
+ 
+
+## New Material Resources 2020-12-04
+## Bio-Circularity + Energetic Transformation 2020-12-17
+## Urban Scale 2021-01-21
 
 
 *This post is in process*  
