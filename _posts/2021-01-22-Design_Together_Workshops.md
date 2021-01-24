@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Together- Workshops has begun in Istanbul
+title: Design Together in/for Istanbul - Workshops are ON THE GO 
 ---
 *New Material Resources 2020-12-04*  
 *Bio-Circularity + Energetic Transformation 2020-12-17*  
